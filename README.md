@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/html-container-section-banner-programming-language-webpage-developing-web-coding-background-245557267.jpg)
+![MasterHead](https://wallpaperaccess.com/full/832357.jpg)
 <h1 align="center">Hi 👋 I'm Riccardo Lo Presti</h1>
 <h3 align="center">I am a Boolean student as a full-stack developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
