@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Vue.js**
 
-- 📫 How to reach me **riccardolopresti35@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/riccardo-lo-presti-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/riccardo-lo-presti-a3315b115/" height="30" width="40" /></a>
