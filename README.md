@@ -1,7 +1,7 @@
 <!-- HERO -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/riccardolopresti/riccardolopresti/blob-scene-haikei.svg"
+    src="https://raw.githubusercontent.com/riccardolopresti/riccardolopresti/main/blob-scene-haikei.svg"
     alt="Riccardo Lo Presti – Full Stack Developer"
     width="100%"
   />
