@@ -134,3 +134,11 @@ I value **clean architecture, scalability and maintainability**, following moder
 - Back-end Developer  
 
 📩 Feel free to reach out if you'd like to collaborate or discuss innovative projects.
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/riccardolopresti/riccardolopresti/main/footer.svg"
+    alt="Riccardo Lo Presti – Full Stack Developer"
+    width="100%"
+  />
+</p>
