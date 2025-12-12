@@ -93,15 +93,6 @@ I value **clean architecture, scalability and maintainability**, following moder
 
 ---
 
-### 📌 Currently
-
-- 🌱 Improving **Laravel** and back-end architecture skills  
-- 🧩 Deepening advanced **Vue.js** patterns  
-- 🤖 Exploring AI integrations for real-world applications  
-- ⚙️ Focusing on performance and scalable systems  
-
----
-
 ### 🌍 Links
 
 - 🌐 **Portfolio:** https://riccardolopresti.com  
