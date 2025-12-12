@@ -111,7 +111,7 @@ I value **clean architecture, scalability and maintainability**, following moder
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolopresti&layout=compact&theme=transparent&hide_title=true"
-    height="155"
+    height="175"
   />
 </p>
 
