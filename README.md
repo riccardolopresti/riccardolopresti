@@ -106,15 +106,14 @@ I value **clean architecture, scalability and maintainability**, following moder
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=riccardolopresti&show_icons=true&theme=transparent&hide_title=true&hide_rank=true"
-    height="155"
+    src="https://github-readme-stats.vercel.app/api?username=riccardolopresti&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&card_width=470&line_height=28"
+    height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolopresti&layout=compact&theme=transparent&hide_title=true"
-    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolopresti&layout=compact&theme=transparent&hide_title=true&card_width=360&langs_count=6"
+    height="160"
   />
 </p>
-
 
 ---
 
