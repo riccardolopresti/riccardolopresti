@@ -1,7 +1,12 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://www.puresourcecode.com/wp-content/uploads/2022/11/github-wallpaper-scaled.jpeg" alt="cover" />
+  <img 
+    src="https://raw.githubusercontent.com/riccardolopresti/riccardolopresti/blob-scene-haikei.svg"
+    alt="Riccardo Lo Presti – Full Stack Developer"
+    width="100%"
+  />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Riccardo Lo Presti</h1>
 
