@@ -105,7 +105,7 @@ I value **clean architecture, scalability and maintainability**, following moder
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-profile-3d-contrib.vercel.app/api?username=riccardolopresti&theme=dracula" alt="3D GitHub Contribution Graph" />
+  <img width="400" src="https://github-profile-3d-contrib.vercel.app/api?username=riccardolopresti&theme=dracula" />
 </p>
 
 
