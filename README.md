@@ -45,6 +45,7 @@ From front-end interfaces to robust back-end APIs, enhanced by AI-powered workfl
 #### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 #### AI & Automation
@@ -104,15 +105,20 @@ I value **clean architecture, scalability and maintainability**, following moder
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riccardolopresti&show_icons=true&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=riccardolopresti&show_icons=true&theme=transparent&hide_title=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolopresti&layout=compact&theme=transparent&hide_title=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riccardolopresti&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolopresti&layout=compact&theme=transparent" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=riccardolopresti&theme=transparent"
+  />
 </p>
 
 ---
@@ -123,6 +129,5 @@ I value **clean architecture, scalability and maintainability**, following moder
 - Web Developer  
 - Front-end Developer  
 - Back-end Developer  
-- AI-enhanced Web Applications  
 
 📩 Feel free to reach out if you'd like to collaborate or discuss innovative projects.
