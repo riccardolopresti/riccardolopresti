@@ -1,6 +1,6 @@
 ![MasterHead](https://www.puresourcecode.com/wp-content/uploads/2022/11/github-wallpaper-scaled.jpeg)
 <h1 align="center">Hi 👋 I'm Riccardo Lo Presti</h1>
-<h3 align="center">I am a Boolean student as a full-stack developer from Italy</h3>
+<h3 align="center">I am Full-stack developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
