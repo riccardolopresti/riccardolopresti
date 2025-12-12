@@ -104,9 +104,21 @@ I value **clean architecture, scalability and maintainability**, following moder
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="400" src="https://github-profile-3d-contrib.vercel.app/api?username=riccardolopresti&theme=dracula" />
-</p>
+<a href="https://github.com/riccardolopresti">
+  <img
+    height="200"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=riccardolopresti&show_icons=true&theme=transparent&hide_title=true"
+  />
+</a>
+
+<a href="https://github.com/riccardolopresti">
+  <img
+    height="200"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=riccardolopresti&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_title=true"
+  />
+</a>
 
 
 ---
