@@ -1,25 +1,110 @@
-![MasterHead](https://www.puresourcecode.com/wp-content/uploads/2022/11/github-wallpaper-scaled.jpeg)
-<h1 align="center">Hi 👋 I'm Riccardo Lo Presti</h1>
-<h3 align="center">I am Full-stack developer from Italy</h3>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riccardolopresti&label=Profile%20views&color=0e75b6&style=flat" alt="riccardolopresti" /> </p>
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **HTML, CSS, JS, Vue.js**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/riccardo-lo-presti-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/riccardo-lo-presti-a3315b115/" height="30" width="40" /></a>
+<!-- HERO -->
+<p align="center">
+  <img src="https://www.puresourcecode.com/wp-content/uploads/2022/11/github-wallpaper-scaled.jpeg" alt="cover" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm Riccardo Lo Presti</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riccardolopresti&show_icons=true&locale=en&layout=compact" alt="riccardolopresti" /></p>
+<h3 align="center">
+Full Stack Developer / Full Stack Engineer  
+<br/>
+JavaScript · Vue.js · Laravel · MySQL · REST APIs
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riccardolopresti&show_icons=true&locale=en" alt="riccardolopresti" /></p>
+<p align="center">
+I build modern, scalable web applications focused on performance, clean code and great user experience.<br/>
+From front-end interfaces to robust back-end APIs.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riccardolopresti&" alt="riccardolopresti" /></p>
+---
+
+### 🛠 Tech Stack
+
+#### Front-end
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+#### Back-end
+<p>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+#### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+#### Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a **Full Stack Developer** focused on building **modern web applications** using **Vue.js, JavaScript (ES6+), Laravel and MySQL**.
+
+I work end-to-end on projects such as:
+- dashboards and admin panels  
+- management systems  
+- automated workflows  
+- dynamic and interactive user interfaces  
+
+I value **clean architecture, scalability and maintainability**, following modern best practices like:
+**component-based design, version control, code reviews and continuous refactoring**.
+
+---
+
+### 📌 Currently
+
+- 🌱 Improving my **Laravel** and back-end architecture skills  
+- 🧩 Deepening advanced **Vue.js** patterns  
+- ⚙️ Focusing on performance, clean code and scalable systems  
+
+---
+
+### 🌍 Links
+
+- 🌐 **Portfolio:** https://riccardolopresti.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/riccardo-lo-presti-/  
+- 💻 **GitHub:** Explore my repositories below 👇  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riccardolopresti&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riccardolopresti&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolopresti&layout=compact&theme=transparent" />
+</p>
+
+---
+
+### 🤝 Open To Opportunities
+
+- Full Stack Developer  
+- Web Developer  
+- Front-end Developer  
+- Back-end Developer  
+
+📩 Feel free to reach out if you'd like to collaborate or discuss interesting projects.
