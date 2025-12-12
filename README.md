@@ -11,9 +11,9 @@
 <h1 align="center">👋 Hi, I'm Riccardo Lo Presti</h1>
 
 <h3 align="center">
-Full Stack Developer - Full Stack Engineer  
+Full Stack Developer - Full Stack Engineer 🚀  
 <br/>
-JavaScript · Vue.js · Laravel · MySQL · REST APIs
+Laravel • Node.js • JavaScript • Vue.js • MySQL • REST APIs
 </h3>
 
 <p align="center">
